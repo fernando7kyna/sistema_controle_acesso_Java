@@ -1,0 +1,13 @@
+sistema\de\acesso\model\Usuario.class
+sistema\de\acesso\service\UsuarioService.class
+sistema\de\acesso\model\Acesso.class
+sistema\de\acesso\SistemaControleAcessoBackendApplication.class
+com\controleacesso\SistemaControleAcessoApplication.class
+com\controleacesso\repository\AcessoRepository.class
+com\controleacesso\config\WebConfig.class
+com\controleacesso\controller\AcessoController.class
+sistema\de\acesso\config\WebConfig.class
+sistema\de\acesso\controller\AcessoController.class
+sistema\de\acesso\repository\AcessoRepository.class
+sistema\de\acesso\controller\UsuarioController.class
+sistema\de\acesso\repository\UsuarioRepository.class
